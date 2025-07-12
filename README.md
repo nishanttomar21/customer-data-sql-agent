@@ -86,21 +86,11 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[Data Sources\n(ERP, POS, Market, Social)]
-      --> B[Ingestion Layer\n(Batch & Streaming ETL)]
-    B --> C[Cloud Storage / Data Lake\n(S3, ADLS, GCS)]
-    C --> D[Databricks\n(Transform & Enrich Data)]
-    D --> E[Cloud Data Warehouse\n(Snowflake, BigQuery, Redshift)]
-    E --> F[BI & Data Science\n(Tableau, Power BI, ML)]
-
-    subgraph G[Data Governance & Security]
-        A
-        B
-        C
-        D
-        E
-        F
-    end
+    A[Data Sources: ERP, POS, Market, Social] --> B[Ingestion Layer: Batch and Streaming ETL]
+    B --> C[Cloud Storage or Data Lake: S3, ADLS, GCS]
+    C --> D[Databricks: Transform and Enrich Data]
+    D --> E[Snowflake: Cloud Data Warehouse]
+    E --> F[BI and Data Science: Tableau, Power BI, ML]
 ```
 
 ## Credits
