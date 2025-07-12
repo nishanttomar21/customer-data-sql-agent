@@ -1,0 +1,33 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# SQLite database
+bank_data.db
+
+# Local/customer data CSV (if you don't want to share real data)
+customers.csv
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor directories and settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Environment variable/config files
+.env
+
+# Logs
+*.log

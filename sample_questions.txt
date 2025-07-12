@@ -1,0 +1,27 @@
+What is the joining date of lisa knox?
+
+What is the age of liam brown?
+
+Who has the highest balance?
+
+Calculate the number of male and female customers?
+
+What is the average balance by gender, age group, and job classification?
+
+Which region has the most customers?
+
+Who are the top 5 customers by balance?
+
+What is the total sum of all balances in the database?
+
+Show the number of customers by age group (18-29, 30-39, 40-49, 50+).
+
+What is the average balance by job classification?
+
+Which regions have the highest concentration of "White Collar" job classification?
+
+How many customers joined before 2018?
+
+What is the minimum, maximum, and average balance in each region?
+
+List all female customers aged above 40 with a balance over 20,000.
