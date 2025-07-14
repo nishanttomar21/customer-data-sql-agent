@@ -1,6 +1,14 @@
 # Customer Data ReAct Agent
 
+## Overview
+
 A conversational AI agent for natural language SQL analytics on bank customer data, powered by Gemini (Google Generative AI) and LangGraph's ReAct agent framework.
+
+## App Screenshot
+
+Here's what the app looks like:
+
+![App UI Screenshot](screenshot.png)
 
 ## Features
 
