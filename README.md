@@ -107,3 +107,6 @@ flowchart TD
 - [Google Generative AI](https://ai.google.dev/)
 - [LangChain](https://github.com/langchain-ai/langchain)
 
+## License
+
+[MIT License](LICENSE)
